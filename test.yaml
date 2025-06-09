@@ -1,0 +1,12 @@
+- Infrastructure
+  - Tagging
+  - Load Balancers
+  - Databases
+  - Containers
+  - AMIs
+- Security
+  - Agents and Ports
+  - Gitlab Security Scanning
+- Live Service
+  - Monitoring and Alerting
+  - Decommissioning
